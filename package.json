@@ -1,0 +1,34 @@
+{
+  "name": "infrastaking",
+  "version": "1.0.0",
+  "description": "**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DroxLabs/infrastaking-contracts-avalanche.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DroxLabs/infrastaking-contracts-avalanche/issues"
+  },
+  "homepage": "https://github.com/DroxLabs/infrastaking-contracts-avalanche#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ethers": "^6.14.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
